@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Screen Minimalis Blue</string>
+    <string name="text_two"><b>Welcome</b>\nManage your account \n <b>Seamlessly &amp; Intuitively</b></string>
+    <string name="already_have_account">Already have an account ? <b>Sign In</b></string>
+    <string name="img_one">img_one</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="create_an_account">Create an account</string>
+</resources>
